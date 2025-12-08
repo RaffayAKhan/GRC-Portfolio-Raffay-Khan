@@ -54,7 +54,7 @@ Includes:
 
 To demonstrate my:
 - Practical knowledge of **GRC & Risk Management**  
-- Understanding of **ISO 27001, NIST CSF, CIS Controls**  
+- Understanding of **ISO 27001, ISO 31000, NIST CSF, CIS Controls**  
 - Documentation & reporting skills  
 - Analytical mindset  
 - Ability to create structured and realistic security governance artifacts  
